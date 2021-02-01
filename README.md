@@ -10,4 +10,4 @@ Prediction using Supervised ML
 ● Data can be found at http://bit.ly/w-data
 
 
-![Demo](demo.gif)
+![Demo](Codedemo.gif)
